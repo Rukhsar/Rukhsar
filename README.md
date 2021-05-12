@@ -1,14 +1,12 @@
 # Hi there, I'm Rukhsar Manzoor 👋
 
 ```
-{ `I'm a Web Developer based in Milton Keynes, United Kingdom` }
+{ `I'm a Fullstack Web Developer based in Milton Keynes, United Kingdom` }
 ```
 
 - I use daily: `.php`, `.(t|j)s(x)`, `.vue` and `.(s)css`
-- I’m currently learning React and GraphQL and TypeScript
+- I’m currently learning React, GraphQL and TypeScript
 - I’m looking to collaborate on open source projects
-- Ask me about JavaScript, PHP, Laravel and Magento stuff
-- Things I deeply care about: Design and User Experience
 
 ## How to reach me:
 
