@@ -5,7 +5,7 @@
 ```
 
 - I use daily: `.php`, `.(t|j)s(x)`, `.vue` and `.(s)css`
-- I’m currently learning React, GraphQL and TypeScript
+- I’m currently learning GraphQL and TypeScript
 - I’m looking to collaborate on open source projects
 
 ## How to reach me:
