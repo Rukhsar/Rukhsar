@@ -10,4 +10,4 @@
 
 ## How to reach me:
 
-[![EMAIL](https://img.shields.io/badge/Email-black?style=for-the-badge)](mailto:hi@rukhsar.dev) [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rukhsarman/) [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/RukhsarMan)
+[![EMAIL](https://img.shields.io/badge/Email-black?style=for-the-badge)](mailto:hi@rukhsar.dev) [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rukhsarman/) [![X](https://img.shields.io/badge/x-black?style=for-the-badge&logo=x)](https://x.com/RukhsarMan)
